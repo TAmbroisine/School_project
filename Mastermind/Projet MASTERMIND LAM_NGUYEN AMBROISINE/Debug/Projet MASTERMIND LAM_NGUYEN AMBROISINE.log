@@ -1,0 +1,21 @@
+﻿La génération a démarré 06/02/2022 09:34:16.
+     1>Projet "C:\Users\yumam\Documents\Devoir GEII\Année 2\Projet POO LAM-NGUYEN_AMBROISINE v2\Projet POO LAM-NGUYEN_AMBROISINE\Projet MASTERMIND LAM_NGUYEN AMBROISINE\Projet MASTERMIND LAM_NGUYEN AMBROISINE\Projet MASTERMIND LAM_NGUYEN AMBROISINE.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Mise à jour de l'horodatage "Debug\Projet MASTERMIND LAM_NGUYEN AMBROISINE.unsuccessfulbuild".
+       GenerateTargetFrameworkMonikerAttribute:
+       La cible est ignorée "GenerateTargetFrameworkMonikerAttribute", car tous les fichiers de sortie sont à jour par rapport aux fichiers d'entrée.
+       ClCompile:
+         Toutes les sorties sont à jour.
+         Toutes les sorties sont à jour.
+         Toutes les sorties sont à jour.
+       CoreResGen:
+         Aucune ressource n'apparaît obsolète par rapport aux fichiers sources. La génération des ressources sera ignorée.
+     1>C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Common.Targets(2318,5): warning MSB3101: Impossible d'écrire le fichier d'état "Debug\Projet MASTERMIND LAM_NGUYEN AMBROISINE.vcxproj.GenerateResource.Cache". Le chemin d'accès spécifié, le nom de fichier ou les deux sont trop longs. Le nom de fichier qualifié complet doit comprendre moins de 260 caractères et le nom du répertoire moins de 248 caractères.
+       ResourceCompile:
+         Toutes les sorties sont à jour.
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Microsoft.CppBuild.targets(1024,23): error MSB4198: Impossible d'évaluer l'expression "DirectoryName" sur l'élément "Debug\Projet MASTERMIND LAM_NGUYEN AMBROISINE.exe.intermediate.manifest". Le chemin d'accès spécifié, le nom de fichier ou les deux sont trop longs. Le nom de fichier qualifié complet doit comprendre moins de 260 caractères et le nom du répertoire moins de 248 caractères.
+     1>Génération du projet "C:\Users\yumam\Documents\Devoir GEII\Année 2\Projet POO LAM-NGUYEN_AMBROISINE v2\Projet POO LAM-NGUYEN_AMBROISINE\Projet MASTERMIND LAM_NGUYEN AMBROISINE\Projet MASTERMIND LAM_NGUYEN AMBROISINE\Projet MASTERMIND LAM_NGUYEN AMBROISINE.vcxproj" terminée (build cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+Temps écoulé 00:00:00.05
